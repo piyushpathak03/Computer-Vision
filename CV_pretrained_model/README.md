@@ -1,9 +1,3 @@
-
-![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)
-![GitHub](https://img.shields.io/badge/Release-PROD-yellow.svg)
-![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
-![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
-
 # Computer Vision Pretrained Models
 
 ![CV logo](https://github.com/balavenkatesh3322/CV-pretrained-model/blob/master/logo.jpg)
@@ -17,8 +11,6 @@ For example, if you want to build a self learning car. You can spend years to bu
 * [NLP Pre-trained Models](https://github.com/balavenkatesh3322/NLP-pretrained-model).
 * [Audio and Speech Pre-trained Models](https://github.com/balavenkatesh3322/audio-pretrained-model)
 
-## Model Deployment library
-* [Model Serving](https://github.com/balavenkatesh3322/model_deployment)
 
 ### Framework
 
@@ -189,6 +181,23 @@ You can see visualizations of each model's network architecture by using [Netron
 ## Contributions
 Your contributions are always welcome!!
 Please have a look at `contributing.md`
+
+## About me
+
+**Piyush Pathak**
+
+[**PORTFOLIO**](https://anirudhrapathak3.wixsite.com/piyush)
+
+[**GITHUB**](https://github.com/piyushpathak03)
+
+[**BLOG**](https://medium.com/@piyushpathak03)
+
+
+# 📫 Follw me: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
+
+<p  align="right"><img height="100" src = "https://media.giphy.com/media/l3URDstnIjBNY7rwLB/giphy.gif"></p>
 
 ## License
 
