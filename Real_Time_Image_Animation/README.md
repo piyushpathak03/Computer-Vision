@@ -56,16 +56,7 @@ Future plans adding deepfake voice and merging with video
 
 Credits
 =======
-```
-@InProceedings{Siarohin_2019_NeurIPS,
-  author={Siarohin, Aliaksandr and Lathuilière, Stéphane and Tulyakov, Sergey and Ricci, Elisa and Sebe, Nicu},
-  title={First Order Motion Model for Image Animation},
-  booktitle = {Conference on Neural Information Processing Systems (NeurIPS)},
-  month = {December},
-  year = {2019},
-  url = {https://github.com/AliaksandrSiarohin/first-order-model}
-}
-```
+
 - Original Project
     * [AliaksandrSiarohin](https://github.com/AliaksandrSiarohin/first-order-model)
 
@@ -79,7 +70,7 @@ Credits
     * [youtube link](https://www.youtube.com/watch?v=RsOJJd1q6Bg&feature=youtu.be)
     * [link to colab version](https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb)
 
-    For any valueable feedback feel free to contact me on [linkedin](https://www.linkedin.com/in/anand-pawara-8045/)
+
 
 ## About me
 
