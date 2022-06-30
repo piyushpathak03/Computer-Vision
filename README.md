@@ -1,7 +1,7 @@
 # Computer-Vision
 Computer vision is a field of artificial intelligence (AI) that enables computers and systems to derive meaningful information from digital images, videos and other visual inputs — and take actions or make recommendations based on that information.
 
-Open Cv Library for Computer vision from scratch
+Open Cv Library for Computer vision from scratch with projects
 
 
 ## About me
